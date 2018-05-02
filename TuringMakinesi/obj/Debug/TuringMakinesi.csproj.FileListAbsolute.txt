@@ -1,0 +1,7 @@
+C:\Users\FatihOzkir\Source\repos\TuringMakinesi\TuringMakinesi\bin\Debug\TuringMakinesi.exe.config
+C:\Users\FatihOzkir\Source\repos\TuringMakinesi\TuringMakinesi\bin\Debug\TuringMakinesi.exe
+C:\Users\FatihOzkir\Source\repos\TuringMakinesi\TuringMakinesi\bin\Debug\TuringMakinesi.pdb
+C:\Users\FatihOzkir\Source\repos\TuringMakinesi\TuringMakinesi\obj\Debug\TuringMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\FatihOzkir\Source\repos\TuringMakinesi\TuringMakinesi\obj\Debug\TuringMakinesi.exe
+C:\Users\FatihOzkir\Source\repos\TuringMakinesi\TuringMakinesi\obj\Debug\TuringMakinesi.pdb
+C:\Users\FatihOzkir\Source\repos\TuringMakinesi\TuringMakinesi\obj\Debug\TuringMakinesi.csprojResolveAssemblyReference.cache
