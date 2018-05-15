@@ -12,7 +12,7 @@ namespace TuringMakinesi
         static char symbol = '@';
         static void Main(string[] args)
         {
-            Console.Write("Stringi Girin: ");// Please Enter your String.
+            Console.Write("Stringi Girin: ");// Please Enter your String. Like 1110 or 10101 or 1010@10
             List<char> word = Console.ReadLine().ToList();
 
             word.Insert(0, symbol);
